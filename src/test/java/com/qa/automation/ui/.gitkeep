@@ -1,0 +1,2 @@
+# UI tests (SauceDemo) go here. Example: LoginTest, ProductCartTest.
+# Use TestNG: @Test(groups = "ui"). Add page objects under a `pages` sub-package if you like.

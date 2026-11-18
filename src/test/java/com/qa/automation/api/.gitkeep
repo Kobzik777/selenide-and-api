@@ -1,0 +1,2 @@
+# API tests (Restful Booker) go here. Example: BookingApiTest.
+# Use TestNG: @Test(groups = "api"). Add request/model helpers under a sub-package if you like.
